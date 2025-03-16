@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ian Massaccesi</h1>
 <h3 align="center">Im a student from Argentina,I really like new tecnologies, learn about a lot of things</h3>
 
-- 💬 Ask me about **frontend,html5,css3**
+- 💬 Ask me about **business**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
